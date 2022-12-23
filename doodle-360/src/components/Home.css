@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page{
+  background-color:#F0F0F0;
+  padding-bottom: 39px;
+  padding-top: 10px;
+}
+.main{
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  margin-left: 60px;
+}
+.New-user {
+  font-size:small;
+  color: white;
+  border-radius: 5px;
+  background-color: #0073DA;
+  margin-left: 1070px;
+  padding-left: 35px;
+  padding-right: 35px;
+  position:relative;
+  bottom:30px;
+}
+.parent{
+  position: relative;
+  left:449px;
+  font-family: "lato";
+  font-size:13px;
+  padding:8px 30px;
+  background-color:white;
+  border-radius: 5px;
+  border: 1px solid #D1D5DB;
+}
+.navbar{
+  font-size: 12px;
+  margin-left: 50px;
+  font-style: normal;
+  border: none;
+}
+.child {
+  position: absolute;
+  top: 33px;
+  left: 846px;
+}
+.start {
+  line-height: 26px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: #4B5563;
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+.line {
+  font-family: "lato";
+  font-style: normal;
+  font-weight: 10;
+  font-size: 14px;
+  border-bottom: 1px solid #EEEEEE;
+  text-align:center;
+  color:black;
+  border-radius: 5px;
+}
+.edit{
+  padding:1px 30px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color:#50B89D;
+}
+.delete{
+  padding: 1px 26px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #F87171;  
+}
+.option{
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border:  #F9FAFB;
+  height: 40px;
+  background-color: #F9FAFB
+}
+.copy{
+  height: 40px;
+  position: relative;
+  left: 271px;
+}
+.svc{
+  height: 40px;
+  position: relative;
+  left: 85px;
+}
+.Printer{
+  height: 40px;
+  position: relative;
+  right:100px
+}
+
